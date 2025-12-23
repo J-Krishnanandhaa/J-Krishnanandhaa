@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 **Computer Science undergraduate (AIML)** with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. I work on applied ML problems across **NLP 📝** and **Computer Vision 👁️**, building **end-to-end systems** from data preprocessing and analysis to model training, evaluation, and inference.
 
-🧠 I enjoy exploring problems deeply before modeling solutions—breaking down complex challenges, identifying meaningful patterns in data, and understanding **why** a solution matters. My current interests include **large-scale text classification 📊**, **model optimization ⚙️**, and **practical deployment workflows 🚀**, with an emphasis on creating solutions that extend beyond metrics and deliver **real-world impact 🌍**.
+🧠 I enjoy exploring problems deeply before modeling solutions; breaking down complex challenges, identifying meaningful patterns in data, and understanding **why** a solution matters. My current interests include **large-scale text classification 📊**, **model optimization ⚙️**, and **practical deployment workflows 🚀**, with an emphasis on creating solutions that extend beyond metrics and deliver **real-world impact 🌍**.
 
 ---
 
